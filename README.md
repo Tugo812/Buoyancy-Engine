@@ -6,3 +6,5 @@
 - Designed flanges in Autodesk Fusion (resin 3D-printed), laser-cut acrylic pistons, soldered the sensor wiring and built a 6 V → 5 V power supply with a buck converter
 
 - Report and code included
+
+- Uses my old name in the report
